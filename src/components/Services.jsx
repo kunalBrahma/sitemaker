@@ -77,8 +77,8 @@ const Services = () => {
   }, []);
 
   return (
-    <div className="mt-36 h-dvh w-screen pt-5 relative overflow-hidden ">
-      <div className="relative mb-8 w-full h-dvh flex flex-col items-center gap-5 overflow-hidden ">
+    <div className="mt-36 h-dvh w-screen pt-5 relative ">
+      <div className="relative mb-8 w-full h-dvh flex flex-col items-center gap-5 ">
         <h2 className="font-general text-sm uppercase md:text-[30px] relative z-50">
           Our Services
         </h2>
