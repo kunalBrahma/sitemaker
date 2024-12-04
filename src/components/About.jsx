@@ -53,10 +53,10 @@ const About = () => {
 
       {/* Background and Content Section */}
       <div className="h-dvh w-screen" id="clip">
-        <div className="mask-clip-path about-image relative overflow-hidden">
+        <div className="mask-clip-path about-image relative overflow-hidden bg-blue-300">
           {/* Background Image */}
           <img
-            src="img/about.webp"
+            src=""
             alt="Background"
             className="absolute inset-0 h-full w-full object-cover"
           />
